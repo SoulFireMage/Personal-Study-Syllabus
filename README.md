@@ -1,3 +1,12 @@
+# 27/10/2026
+
+I look back at this and wonder, how did I wonder so far off any tracks? A day job for one. The purpose of the study was to get into code as a day job again. In this I succeeded, and I'm still there now. My repos are semi chaotic as for most of the following decade my work lived at work (like many devs). 
+
+The coming of AI interested me repeatedly and now I use it everyday, in a various ways. Arguably my use at home (Hermes agent, Opencode,Claude Code, Antigravity, Cline and LmStudio) is more sophisticated and complex than my work use. But, work has more responsibilities not to bugger things up, or slip up with confidences. 
+
+It is interesting being able to code and such like, and doing this with an AI. Yet, I can't help feeling the transformer route feels a little like using a massive hammer to crack a sophisticated nut. The ol' bitter lesson (Sutton) strikes with that one so far. 
+
+
 # Personal-Study-Syllabus
 Computer Science and Maths Personal Syllabus
 
@@ -18,3 +27,5 @@ In addition, [http://KhanAcademy.org/](http://KhanAcademy.org/ "Khan Academy"), 
 The order of study is subject to change as I've a reasonable idea, in general, of what I don't know but realise as I dig into this, I'll find more that I don't know that I didn't know.
 
 24th August 2015
+
+
